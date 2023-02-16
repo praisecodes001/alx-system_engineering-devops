@@ -1,0 +1,3 @@
+#!/bin/bash
+`expr $num1 / $num2`
+
